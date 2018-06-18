@@ -1,0 +1,16 @@
+C:\MSProjects\Stocks\Stocks\bin\Debug\Stocks.exe.config
+C:\MSProjects\Stocks\Stocks\bin\Debug\Stocks.exe
+C:\MSProjects\Stocks\Stocks\bin\Debug\Stocks.pdb
+C:\MSProjects\Stocks\Stocks\bin\Debug\EntityFramework.dll
+C:\MSProjects\Stocks\Stocks\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSProjects\Stocks\Stocks\bin\Debug\EntityFramework.xml
+C:\MSProjects\Stocks\Stocks\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.csprojResolveAssemblyReference.cache
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.csproj.CoreCompileInputs.cache
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.csproj.CopyComplete
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.exe
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.pdb
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.Migrations.CreatedUser.resources
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.csproj.GenerateResource.cache
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.Migrations.CreatedCompany.resources
+C:\MSProjects\Stocks\Stocks\obj\Debug\Stocks.Migrations.CreatedTransaction.resources
